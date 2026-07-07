@@ -2,7 +2,6 @@ import os
 import re
 import time
 import asyncio
-import discord
 from discord.ext import commands
 import aiohttp
 from dotenv import load_dotenv
