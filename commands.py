@@ -299,5 +299,5 @@ import os
 load_dotenv()
 
 TOKEN = os.getenv("TOKEN")
-bot.run("MTUyMzgxMzgyNjA3MDMxNTA2OQ.G7O9XQ.raS7Ytn2B0F_TvXGCF7iUlDtdwYaznAat-LFJY")
+bot.run("MTUyNDAxNDk0MjU5OTExODg4OA.GFvygS.hmGRZLL2LwRixu6wjU2gT2flVU0Ze9UVIrtycQ")
 print(repr(TOKEN))
