@@ -1,9 +1,0 @@
-# this is a sample requirment.txt file
-# it lists all dependincies for a python project
-
-os
-re
-asyncio
-discord
-discord.python
-then pip install -U --prefix .local
